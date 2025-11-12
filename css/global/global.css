@@ -23,6 +23,10 @@ img {
   display: block;
 }
 
-span {
+img[src$=".jpg"] {
+  border-radius: 4px;
+}
+
+.ponto {
   color: var(--cor-p1);
 }
