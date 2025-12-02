@@ -1,5 +1,7 @@
 # 💼 Projeto Bikcraft | Origamid
 
+<img width="2000" height="1520" alt="Image" src="https://github.com/user-attachments/assets/9c0cbaf3-cb43-4890-a4d4-1b6e1c8b40f5" />
+
 Este projeto consiste no desenvolvimento do site Bikcraft, uma marca fictícia de bicicletas elétricas e seguros, criado como parte dos módulos “HTML e CSS para Iniciantes” e “UI Design para Iniciantes” do curso de Desenvolvimento Web da Origamid.
 
 ## 🌐 Visualize o projeto:
